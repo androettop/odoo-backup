@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/odoo-backup.svg)](https://badge.fury.io/js/odoo-backup)
+[![GitHub version](https://badge.fury.io/gh/androettop%2Fodoo-backup.svg)](https://badge.fury.io/gh/androettop%2Fodoo-backup)
 # Installation
 
 ### With yarn 

@@ -1,6 +1,6 @@
 {
   "name": "odoo-backup",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "license": "MIT",
   "bin": {
@@ -9,5 +9,9 @@
   "dependencies": {
     "request": "^2.88.2"
   },
-  "author": "Pablo Androetto"
+  "author": "Pablo Androetto",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/androettop/odoo-backup"
+  }
 }
