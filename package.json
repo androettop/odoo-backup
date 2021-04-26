@@ -1,0 +1,13 @@
+{
+  "name": "odoo-backup",
+  "version": "1.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "odoo-backup": "./bin/index.js"
+  },
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "author": "Pablo Androetto"
+}
